@@ -1,3 +1,3 @@
 # nosql
-In this repository, IO experimented with NoSQL injection on MongoDB
+In this repository, I experimented with NoSQL injection on MongoDB
  
